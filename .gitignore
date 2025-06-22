@@ -1,0 +1,3 @@
+.venv/
+offline-wheels/
+__pycache__/
